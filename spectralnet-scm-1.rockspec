@@ -1,7 +1,7 @@
 package = "spectralnet"
 version = "scm-1"
 source = {
-   url = "..." --TODO
+   url = "/home/hxw/work_icpr2016/aux_tool/spectral-lib" --may change this to suit your needs
 }
 description = {
    summary = "Spectral network library",
